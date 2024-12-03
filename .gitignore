@@ -1,0 +1,5 @@
+*.pdf
+
+
+data/
+!data/mon_fichier.txt
